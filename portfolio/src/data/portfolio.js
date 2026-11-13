@@ -183,11 +183,12 @@ export const hackathons = [
     link: '',
   },
   {
-    name: '',
-    result: '',
+    name: 'AI Product Buildathon',
+    result: 'finalist',
     date: '2026',
-    project: '',
-    description: '',
-    link: '',
+    project: 'Follow-ai',
+    description: `Salespeople have conversations with multiple prospects every day through calls, emails, and meetings. Important requirements and follow-ups can easily get missed.
+    So we're building an AI agent that can turn those conversations into actionable sales insights.`,
+    link: 'https://lnkd.in/dAKkBGbE',
   },
 ]
