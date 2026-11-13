@@ -72,7 +72,7 @@ export const education = {
   degree: 'B.Tech, Information Technology',
   school: 'Kamla Nehru Institute of Technology, Sultanpur',
   status: 'Currently in 3rd Year',
-  cgpa: '7.86',
+  
 }
 
 export const projects = [
