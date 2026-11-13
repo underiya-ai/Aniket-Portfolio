@@ -175,12 +175,12 @@ export const certificates = [
 // Replace these samples with the hackathons you've participated in.
 export const hackathons = [
   {
-    name: 'Your Hackathon Name',
-    result: 'Participant',
-    date: '2025',
-    project: 'Project you built',
-    description: 'One or two lines on what you built, the stack, and what you learned.',
-    link: '',
+    name: 'Hackcbs9.0',
+    result: 'Finalist',
+    date: '31/10/2026',
+    project: 'Vigil',
+    description: 'Vigil watches an assembly bench and stops a wrong step as it happens. A local rule raises the alert straight away, then Gemini confirms or clears it with a citation from the manual.',
+    link: 'https://github.com/TheCodeHeist-Coder/Vigil',
   },
   {
     name: 'Another Hackathon',
