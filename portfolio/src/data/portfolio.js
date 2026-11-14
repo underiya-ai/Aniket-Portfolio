@@ -11,7 +11,7 @@ export const profile = {
   taglineShort: 'Building multi-agent systems, RAG pipelines and LLM-powered apps.',
   // Drop a photo at public/profile.jpg — the initials avatar is shown until then.
   photo: '/aniket-Image.jpeg',
-  resume: '/Resume.pdf',
+  resume: '/resume.pdf',
   email: 'aniketunderiya20@gmail.com',
   phone: '+91 8477930875',
   linkedin: 'https://linkedin.com/in/aniket-underiya',
