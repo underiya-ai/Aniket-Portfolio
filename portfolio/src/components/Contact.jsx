@@ -19,7 +19,7 @@ export function Contact() {
       <Reveal className="mx-auto max-w-2xl text-center">
         <h2 className="text-[30px] font-bold tracking-tight md:text-[40px]">Get in touch</h2>
         <p className="mt-3 text-gray-600 dark:text-neutral-400">
-          Hiring for an AI/ML, GenAI or LLM role, or want to build something together? My inbox is open.
+          Hiring for an AI/ML, GenAI or AgenticAI role, or want to build something together? My inbox is open.
         </p>
 
         <form onSubmit={handleSubmit} className="mt-8 grid gap-3 text-left">
@@ -72,7 +72,7 @@ export function Footer() {
     <footer className="bg-black/90 px-6 py-8 text-white dark:border-t dark:border-white/10 dark:bg-black/40">
       <div className="mx-auto flex max-w-5xl flex-col items-center justify-between gap-4 sm:flex-row">
         <p className="text-sm text-white/70">
-          © {year} {profile.name}. Built with React & Tailwind.
+          © {year} {profile.name}
         </p>
         <div className="flex items-center gap-4">
           {links.map((l) => (
